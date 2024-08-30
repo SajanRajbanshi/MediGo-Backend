@@ -1,0 +1,1415 @@
+[
+  {
+    "name": "Natalie Mcfadden Hospital",
+    "postalcode": "366263",
+    "address": "946-3056 Lorem Rd.",
+    "establishedDate": "1843-08-20T17:09:58.224Z",
+    "services": [
+      "General Surgery",
+      "Pharmacy",
+      "Neurology"
+    ],
+    "rating": 4.2,
+    "type": "Private",
+    "avgfee": 4358
+  },
+  {
+    "name": "Mollie Knox Hospital",
+    "postalcode": "823687",
+    "address": "Ap #894-3626 A, Avenue",
+    "establishedDate": "1901-03-09T11:56:07.864Z",
+    "services": [
+      "Orthopedics",
+      "Sleep Medicine",
+      "General Surgery"
+    ],
+    "rating": 5,
+    "type": "Private",
+    "avgfee": 351
+  },
+  {
+    "name": "Robert Golden Hospital",
+    "postalcode": "883682",
+    "address": "641-2013 Ante St.",
+    "establishedDate": "1803-08-13T02:02:26.800Z",
+    "services": [
+      "Cardiology",
+      "Oncology",
+      "Laboratory Services"
+    ],
+    "rating": 2.7,
+    "type": "Private",
+    "avgfee": 2845
+  },
+  {
+    "name": "Martina Castro Hospital",
+    "postalcode": "247886",
+    "address": "Ap #964-9475 Morbi Rd.",
+    "establishedDate": "1906-09-06T04:56:27.843Z",
+    "services": [
+      "Radiology",
+      "Palliative Care",
+      "Dental Services",
+      "Pharmacy",
+      "Ophthalmology"
+    ],
+    "rating": 3.3,
+    "type": "Public",
+    "avgfee": 4719
+  },
+  {
+    "name": "Merritt Sellers Hospital",
+    "postalcode": "347217",
+    "address": "3717 Odio. Av.",
+    "establishedDate": "2016-08-26T08:49:20.622Z",
+    "services": [
+      "Laboratory Services"
+    ],
+    "rating": 2.3,
+    "type": "Public",
+    "avgfee": 3532
+  },
+  {
+    "name": "Medge Wright Hospital",
+    "postalcode": "650168",
+    "address": "Ap #362-4247 Ipsum Ave",
+    "establishedDate": "1878-05-14T09:51:20.851Z",
+    "services": [
+      "Emergency Care",
+      "Neurology"
+    ],
+    "rating": 4,
+    "type": "Private",
+    "avgfee": 1976
+  },
+  {
+    "name": "Cynthia Ashley Hospital",
+    "postalcode": "165241",
+    "address": "Ap #331-862 Mauris St.",
+    "establishedDate": "1913-02-01T16:03:05.196Z",
+    "services": [
+      "Ophthalmology",
+      "General Surgery",
+      "Sleep Medicine",
+      "Neurology",
+      "Emergency Care"
+    ],
+    "rating": 4.1,
+    "type": "Public",
+    "avgfee": 4388
+  },
+  {
+    "name": "Illiana Lang Hospital",
+    "postalcode": "838180",
+    "address": "Ap #872-4653 Malesuada Street",
+    "establishedDate": "1840-03-21T07:55:05.977Z",
+    "services": [
+      "Dermatology",
+      "Obstetrics & Gynecology",
+      "Ophthalmology"
+    ],
+    "rating": 4.7,
+    "type": "Private",
+    "avgfee": 1007
+  },
+  {
+    "name": "Jolie White Hospital",
+    "postalcode": "768071",
+    "address": "901-7273 Augue Rd.",
+    "establishedDate": "1979-03-13T14:19:28.829Z",
+    "services": [
+      "Laboratory Services",
+      "Dermatology",
+      "Pain Management",
+      "Oncology",
+      "Neurology"
+    ],
+    "rating": 2.5,
+    "type": "Public",
+    "avgfee": 3525
+  },
+  {
+    "name": "Patience Christensen Hospital",
+    "postalcode": "405849",
+    "address": "Ap #391-4116 Aenean Avenue",
+    "establishedDate": "2009-02-01T11:57:29.116Z",
+    "services": [
+      "Emergency Care"
+    ],
+    "rating": 1.3,
+    "type": "Public",
+    "avgfee": 2010
+  },
+  {
+    "name": "Caryn Patterson Hospital",
+    "postalcode": "645672",
+    "address": "2922 Dignissim Road",
+    "establishedDate": "1885-04-16T15:47:36.679Z",
+    "services": [
+      "General Surgery",
+      "Emergency Care",
+      "Urgent Care",
+      "Sleep Medicine"
+    ],
+    "rating": 4.8,
+    "type": "Private",
+    "avgfee": 430
+  },
+  {
+    "name": "Castor Cox Hospital",
+    "postalcode": "982380",
+    "address": "596-9318 Fusce Av.",
+    "establishedDate": "1797-03-28T01:30:00.239Z",
+    "services": [
+      "Ophthalmology",
+      "Laboratory Services",
+      "Sleep Medicine"
+    ],
+    "rating": 2,
+    "type": "Public",
+    "avgfee": 245
+  },
+  {
+    "name": "Ginger Serrano Hospital",
+    "postalcode": "363217",
+    "address": "Ap #621-4029 Pede Road",
+    "establishedDate": "1907-06-01T23:18:05.031Z",
+    "services": [
+      "Emergency Care",
+      "Laboratory Services",
+      "Pharmacy"
+    ],
+    "rating": 4,
+    "type": "Public",
+    "avgfee": 1626
+  },
+  {
+    "name": "Oren Kelley Hospital",
+    "postalcode": "794516",
+    "address": "Ap #390-9264 Fusce St.",
+    "establishedDate": "1891-06-20T08:54:22.112Z",
+    "services": [
+      "Dermatology",
+      "Emergency Care",
+      "Oncology",
+      "Pediatrics",
+      "Psychiatry"
+    ],
+    "rating": 3.6,
+    "type": "Public",
+    "avgfee": 1253
+  },
+  {
+    "name": "Ashely Thomas Hospital",
+    "postalcode": "427169",
+    "address": "750-9812 Cras Rd.",
+    "establishedDate": "1990-09-26T14:21:54.161Z",
+    "services": [
+      "Ophthalmology",
+      "Orthopedics"
+    ],
+    "rating": 2.5,
+    "type": "Public",
+    "avgfee": 4946
+  },
+  {
+    "name": "Geoffrey Glenn Hospital",
+    "postalcode": "960285",
+    "address": "6154 Enim. Rd.",
+    "establishedDate": "1951-04-12T21:24:22.142Z",
+    "services": [
+      "Sleep Medicine"
+    ],
+    "rating": 3.9,
+    "type": "Private",
+    "avgfee": 928
+  },
+  {
+    "name": "Pandora Alexander Hospital",
+    "postalcode": "880233",
+    "address": "Ap #798-1882 Dolor. Road",
+    "establishedDate": "1770-01-13T02:02:33.267Z",
+    "services": [
+      "Ophthalmology",
+      "Urgent Care"
+    ],
+    "rating": 3,
+    "type": "Public",
+    "avgfee": 3071
+  },
+  {
+    "name": "Alika Simmons Hospital",
+    "postalcode": "341213",
+    "address": "Ap #520-1153 Adipiscing St.",
+    "establishedDate": "2007-04-23T16:33:18.957Z",
+    "services": [
+      "Pain Management",
+      "Pediatrics"
+    ],
+    "rating": 3,
+    "type": "Public",
+    "avgfee": 3778
+  },
+  {
+    "name": "Rogan Hendrix Hospital",
+    "postalcode": "773540",
+    "address": "590-684 Donec Road",
+    "establishedDate": "1754-08-13T19:17:48.373Z",
+    "services": [
+      "Palliative Care",
+      "Orthopedics",
+      "Obstetrics & Gynecology"
+    ],
+    "rating": 2.9,
+    "type": "Public",
+    "avgfee": 856
+  },
+  {
+    "name": "Arsenio Graves Hospital",
+    "postalcode": "461149",
+    "address": "P.O. Box 641, 5063 Adipiscing, St.",
+    "establishedDate": "1781-09-19T23:38:06.242Z",
+    "services": [
+      "Oncology",
+      "Sleep Medicine",
+      "Psychiatry",
+      "Neurology"
+    ],
+    "rating": 2.6,
+    "type": "Private",
+    "avgfee": 2103
+  },
+  {
+    "name": "Fitzgerald Dickson Hospital",
+    "postalcode": "564255",
+    "address": "Ap #484-6466 Diam Avenue",
+    "establishedDate": "2017-03-13T03:22:54.890Z",
+    "services": [
+      "Pharmacy",
+      "Urgent Care",
+      "Neurology"
+    ],
+    "rating": 4.9,
+    "type": "Private",
+    "avgfee": 2812
+  },
+  {
+    "name": "Miranda Stuart Hospital",
+    "postalcode": "213751",
+    "address": "1405 Praesent Ave",
+    "establishedDate": "1799-01-11T18:13:25.492Z",
+    "services": [
+      "Pain Management",
+      "Dental Services",
+      "Orthopedics",
+      "Dermatology"
+    ],
+    "rating": 1.4,
+    "type": "Public",
+    "avgfee": 4402
+  },
+  {
+    "name": "Edan Waller Hospital",
+    "postalcode": "658120",
+    "address": "531-4275 Libero Rd.",
+    "establishedDate": "1994-02-27T03:16:19.927Z",
+    "services": [
+      "Rehabilitation Services",
+      "Radiology",
+      "Orthopedics"
+    ],
+    "rating": 2.7,
+    "type": "Public",
+    "avgfee": 1481
+  },
+  {
+    "name": "Lani Pruitt Hospital",
+    "postalcode": "877364",
+    "address": "Ap #678-3784 Consequat Rd.",
+    "establishedDate": "1817-12-01T11:15:08.250Z",
+    "services": [
+      "Orthopedics",
+      "General Surgery"
+    ],
+    "rating": 4.3,
+    "type": "Public",
+    "avgfee": 2410
+  },
+  {
+    "name": "Aidan Rojas Hospital",
+    "postalcode": "361451",
+    "address": "Ap #322-9579 Euismod Street",
+    "establishedDate": "1746-02-18T05:03:37.239Z",
+    "services": [
+      "Sleep Medicine",
+      "Urgent Care",
+      "Radiology"
+    ],
+    "rating": 2.6,
+    "type": "Private",
+    "avgfee": 667
+  },
+  {
+    "name": "Conan Lewis Hospital",
+    "postalcode": "858660",
+    "address": "Ap #458-6399 Convallis, St.",
+    "establishedDate": "1846-12-19T11:40:20.044Z",
+    "services": [
+      "Neurology",
+      "Rehabilitation Services",
+      "Obstetrics & Gynecology",
+      "Pediatrics",
+      "Emergency Care"
+    ],
+    "rating": 4.5,
+    "type": "Public",
+    "avgfee": 2376
+  },
+  {
+    "name": "Hayfa Callahan Hospital",
+    "postalcode": "478928",
+    "address": "P.O. Box 955, 2680 Ante Avenue",
+    "establishedDate": "1858-01-31T12:04:34.638Z",
+    "services": [
+      "Pediatrics",
+      "Psychiatry",
+      "Ophthalmology",
+      "Emergency Care"
+    ],
+    "rating": 4.9,
+    "type": "Private",
+    "avgfee": 3552
+  },
+  {
+    "name": "Denton Parker Hospital",
+    "postalcode": "798582",
+    "address": "732-2974 Libero St.",
+    "establishedDate": "1874-03-28T02:23:17.634Z",
+    "services": [
+      "Obstetrics & Gynecology",
+      "General Surgery"
+    ],
+    "rating": 3.7,
+    "type": "Private",
+    "avgfee": 437
+  },
+  {
+    "name": "Colorado Johnson Hospital",
+    "postalcode": "649323",
+    "address": "5074 Duis Rd.",
+    "establishedDate": "2011-07-20T17:20:55.363Z",
+    "services": [
+      "Dermatology",
+      "General Surgery",
+      "Urgent Care",
+      "Obstetrics & Gynecology"
+    ],
+    "rating": 3.1,
+    "type": "Private",
+    "avgfee": 325
+  },
+  {
+    "name": "Shana Waller Hospital",
+    "postalcode": "265275",
+    "address": "Ap #569-317 Sed Road",
+    "establishedDate": "1890-01-22T01:39:27.676Z",
+    "services": [
+      "Pediatrics",
+      "Oncology"
+    ],
+    "rating": 1.4,
+    "type": "Private",
+    "avgfee": 285
+  },
+  {
+    "name": "Eaton Cannon Hospital",
+    "postalcode": "348713",
+    "address": "Ap #627-6704 Posuere, Avenue",
+    "establishedDate": "1747-08-19T10:54:27.063Z",
+    "services": [
+      "Obstetrics & Gynecology",
+      "Pediatrics",
+      "Orthopedics",
+      "General Surgery",
+      "Neurology"
+    ],
+    "rating": 4.1,
+    "type": "Private",
+    "avgfee": 4581
+  },
+  {
+    "name": "Kellie Gould Hospital",
+    "postalcode": "735251",
+    "address": "P.O. Box 301, 6732 Justo Road",
+    "establishedDate": "1918-11-20T04:04:44.532Z",
+    "services": [
+      "Dermatology"
+    ],
+    "rating": 2.3,
+    "type": "Private",
+    "avgfee": 411
+  },
+  {
+    "name": "Ezekiel Delaney Hospital",
+    "postalcode": "253748",
+    "address": "658-3822 Dolor. Street",
+    "establishedDate": "1715-06-24T20:32:16.774Z",
+    "services": [
+      "Oncology",
+      "Laboratory Services",
+      "Pain Management"
+    ],
+    "rating": 1.6,
+    "type": "Private",
+    "avgfee": 1846
+  },
+  {
+    "name": "Veronica Fulton Hospital",
+    "postalcode": "275419",
+    "address": "P.O. Box 172, 836 Donec St.",
+    "establishedDate": "1780-11-26T00:28:31.511Z",
+    "services": [
+      "Pharmacy",
+      "Psychiatry",
+      "Orthopedics"
+    ],
+    "rating": 1.5,
+    "type": "Private",
+    "avgfee": 3017
+  },
+  {
+    "name": "Harriet Parrish Hospital",
+    "postalcode": "577624",
+    "address": "Ap #848-2556 Duis Av.",
+    "establishedDate": "1907-02-15T15:13:28.842Z",
+    "services": [
+      "Cardiology",
+      "Dermatology"
+    ],
+    "rating": 2.5,
+    "type": "Private",
+    "avgfee": 2989
+  },
+  {
+    "name": "Macaulay Lewis Hospital",
+    "postalcode": "798322",
+    "address": "5328 Adipiscing, Rd.",
+    "establishedDate": "1887-08-14T05:57:56.611Z",
+    "services": [
+      "Radiology"
+    ],
+    "rating": 1.3,
+    "type": "Public",
+    "avgfee": 4129
+  },
+  {
+    "name": "Octavius Reynolds Hospital",
+    "postalcode": "418323",
+    "address": "Ap #494-4262 Molestie Rd.",
+    "establishedDate": "1914-05-22T08:20:12.671Z",
+    "services": [
+      "Pediatrics",
+      "Pain Management",
+      "Oncology",
+      "Dental Services"
+    ],
+    "rating": 2.2,
+    "type": "Private",
+    "avgfee": 3133
+  },
+  {
+    "name": "Isadora Morrow Hospital",
+    "postalcode": "587424",
+    "address": "Ap #808-7578 Proin Av.",
+    "establishedDate": "1977-02-11T19:49:52.059Z",
+    "services": [
+      "Rehabilitation Services",
+      "Psychiatry"
+    ],
+    "rating": 2,
+    "type": "Public",
+    "avgfee": 342
+  },
+  {
+    "name": "Sean Cochran Hospital",
+    "postalcode": "673047",
+    "address": "Ap #838-9251 Gravida Rd.",
+    "establishedDate": "1738-03-04T05:55:39.663Z",
+    "services": [
+      "Cardiology",
+      "Pediatrics",
+      "Pain Management",
+      "Emergency Care"
+    ],
+    "rating": 1.3,
+    "type": "Public",
+    "avgfee": 2373
+  },
+  {
+    "name": "Hasad Wells Hospital",
+    "postalcode": "348903",
+    "address": "1470 Metus. Avenue",
+    "establishedDate": "1822-05-14T00:56:42.297Z",
+    "services": [
+      "Psychiatry",
+      "Obstetrics & Gynecology",
+      "Pediatrics"
+    ],
+    "rating": 1.5,
+    "type": "Private",
+    "avgfee": 1229
+  },
+  {
+    "name": "Katell Santos Hospital",
+    "postalcode": "879454",
+    "address": "631-2178 Fusce Street",
+    "establishedDate": "1996-05-31T13:24:56.366Z",
+    "services": [
+      "General Surgery",
+      "Rehabilitation Services",
+      "Pediatrics",
+      "Pharmacy"
+    ],
+    "rating": 2.5,
+    "type": "Public",
+    "avgfee": 2679
+  },
+  {
+    "name": "Madison Dudley Hospital",
+    "postalcode": "218833",
+    "address": "1682 Fermentum Street",
+    "establishedDate": "1774-03-14T05:01:18.315Z",
+    "services": [
+      "Cardiology",
+      "Ophthalmology",
+      "Emergency Care",
+      "Laboratory Services"
+    ],
+    "rating": 3.9,
+    "type": "Private",
+    "avgfee": 675
+  },
+  {
+    "name": "Joy Bates Hospital",
+    "postalcode": "848310",
+    "address": "Ap #310-6312 Elementum Rd.",
+    "establishedDate": "1927-11-08T00:18:46.060Z",
+    "services": [
+      "Pharmacy",
+      "Cardiology",
+      "Emergency Care",
+      "Neurology"
+    ],
+    "rating": 4.5,
+    "type": "Private",
+    "avgfee": 4250
+  },
+  {
+    "name": "Carissa Gordon Hospital",
+    "postalcode": "313582",
+    "address": "Ap #300-781 Aenean Ave",
+    "establishedDate": "1868-11-12T19:53:49.391Z",
+    "services": [
+      "Sleep Medicine"
+    ],
+    "rating": 1.2,
+    "type": "Private",
+    "avgfee": 3829
+  },
+  {
+    "name": "Richard Singleton Hospital",
+    "postalcode": "778387",
+    "address": "807-9827 Quam Rd.",
+    "establishedDate": "1830-09-05T19:42:06.130Z",
+    "services": [
+      "Rehabilitation Services",
+      "Radiology",
+      "Dermatology"
+    ],
+    "rating": 3.5,
+    "type": "Private",
+    "avgfee": 625
+  },
+  {
+    "name": "Yasir Avila Hospital",
+    "postalcode": "670318",
+    "address": "276-5492 Dignissim. St.",
+    "establishedDate": "1861-01-16T08:23:18.855Z",
+    "services": [
+      "Cardiology",
+      "Pharmacy",
+      "Laboratory Services"
+    ],
+    "rating": 2.1,
+    "type": "Private",
+    "avgfee": 1986
+  },
+  {
+    "name": "Xenos Cortez Hospital",
+    "postalcode": "752583",
+    "address": "126-9002 Ac Av.",
+    "establishedDate": "1720-04-20T21:09:24.198Z",
+    "services": [
+      "Oncology",
+      "Dental Services",
+      "Neurology",
+      "Emergency Care"
+    ],
+    "rating": 1.2,
+    "type": "Public",
+    "avgfee": 2697
+  },
+  {
+    "name": "Alexis Brady Hospital",
+    "postalcode": "638975",
+    "address": "532-3536 At Rd.",
+    "establishedDate": "2011-08-15T18:52:33.351Z",
+    "services": [
+      "Orthopedics"
+    ],
+    "rating": 2.8,
+    "type": "Public",
+    "avgfee": 3225
+  },
+  {
+    "name": "Cyrus Burnett Hospital",
+    "postalcode": "833372",
+    "address": "P.O. Box 201, 4118 Ut, St.",
+    "establishedDate": "1865-09-29T03:59:51.708Z",
+    "services": [
+      "Palliative Care",
+      "Dental Services",
+      "Orthopedics",
+      "General Surgery"
+    ],
+    "rating": 2.6,
+    "type": "Private",
+    "avgfee": 4291
+  },
+  {
+    "name": "Sawyer Buckley Hospital",
+    "postalcode": "140852",
+    "address": "349-9262 Neque. Road",
+    "establishedDate": "1852-09-23T18:24:55.888Z",
+    "services": [
+      "Dental Services",
+      "Rehabilitation Services",
+      "Oncology"
+    ],
+    "rating": 4.5,
+    "type": "Private",
+    "avgfee": 1375
+  },
+  {
+    "name": "Ariel Travis Hospital",
+    "postalcode": "733762",
+    "address": "991-1812 Rutrum Avenue",
+    "establishedDate": "1879-06-19T04:41:53.141Z",
+    "services": [
+      "Ophthalmology",
+      "Cardiology"
+    ],
+    "rating": 1.6,
+    "type": "Public",
+    "avgfee": 4399
+  },
+  {
+    "name": "Jerry Allison Hospital",
+    "postalcode": "731977",
+    "address": "419-5839 Cursus, Avenue",
+    "establishedDate": "1760-05-11T19:59:33.700Z",
+    "services": [
+      "Emergency Care",
+      "General Surgery",
+      "Neurology"
+    ],
+    "rating": 1.7,
+    "type": "Public",
+    "avgfee": 2277
+  },
+  {
+    "name": "Phillip Zimmerman Hospital",
+    "postalcode": "828536",
+    "address": "120-5350 Lacinia Avenue",
+    "establishedDate": "1884-11-18T05:52:11.876Z",
+    "services": [
+      "Urgent Care",
+      "Psychiatry",
+      "Obstetrics & Gynecology",
+      "Cardiology"
+    ],
+    "rating": 4.9,
+    "type": "Private",
+    "avgfee": 405
+  },
+  {
+    "name": "Ezra Rivera Hospital",
+    "postalcode": "192595",
+    "address": "Ap #926-6270 Habitant Street",
+    "establishedDate": "1950-03-22T18:07:42.810Z",
+    "services": [
+      "Oncology",
+      "Pain Management",
+      "Psychiatry"
+    ],
+    "rating": 2.9,
+    "type": "Private",
+    "avgfee": 2132
+  },
+  {
+    "name": "Dean Banks Hospital",
+    "postalcode": "482785",
+    "address": "Ap #533-3760 Tempus St.",
+    "establishedDate": "1731-09-03T10:13:16.289Z",
+    "services": [
+      "Rehabilitation Services",
+      "Sleep Medicine",
+      "Radiology",
+      "Obstetrics & Gynecology",
+      "Cardiology"
+    ],
+    "rating": 4.8,
+    "type": "Public",
+    "avgfee": 3020
+  },
+  {
+    "name": "Gail Beck Hospital",
+    "postalcode": "861734",
+    "address": "225-3519 Tempor Ave",
+    "establishedDate": "1940-02-16T17:05:24.497Z",
+    "services": [
+      "Palliative Care",
+      "Oncology",
+      "General Surgery",
+      "Pharmacy"
+    ],
+    "rating": 1.6,
+    "type": "Private",
+    "avgfee": 1841
+  },
+  {
+    "name": "Jena Reid Hospital",
+    "postalcode": "719287",
+    "address": "499-6329 Euismod Ave",
+    "establishedDate": "1821-10-19T05:37:35.182Z",
+    "services": [
+      "Oncology"
+    ],
+    "rating": 2.3,
+    "type": "Public",
+    "avgfee": 4128
+  },
+  {
+    "name": "Timon Oneal Hospital",
+    "postalcode": "545785",
+    "address": "483-2935 Vel, St.",
+    "establishedDate": "1770-05-25T13:26:57.629Z",
+    "services": [
+      "Pharmacy"
+    ],
+    "rating": 4.8,
+    "type": "Public",
+    "avgfee": 1177
+  },
+  {
+    "name": "Travis Powers Hospital",
+    "postalcode": "267370",
+    "address": "489-9360 Scelerisque Avenue",
+    "establishedDate": "1724-02-10T18:22:42.858Z",
+    "services": [
+      "Cardiology",
+      "Orthopedics"
+    ],
+    "rating": 3.3,
+    "type": "Private",
+    "avgfee": 230
+  },
+  {
+    "name": "Shea Burks Hospital",
+    "postalcode": "934478",
+    "address": "309-7160 Ut St.",
+    "establishedDate": "1793-06-05T18:57:58.623Z",
+    "services": [
+      "Sleep Medicine",
+      "Pharmacy",
+      "Laboratory Services",
+      "Psychiatry"
+    ],
+    "rating": 2.6,
+    "type": "Public",
+    "avgfee": 2704
+  },
+  {
+    "name": "Bruno Baker Hospital",
+    "postalcode": "308837",
+    "address": "510-6343 Tincidunt Street",
+    "establishedDate": "2020-10-20T07:53:27.799Z",
+    "services": [
+      "Pediatrics"
+    ],
+    "rating": 3.4,
+    "type": "Public",
+    "avgfee": 4627
+  },
+  {
+    "name": "Blake Powell Hospital",
+    "postalcode": "483021",
+    "address": "620-2103 Fringilla St.",
+    "establishedDate": "1785-01-20T16:02:25.690Z",
+    "services": [
+      "Dermatology",
+      "Obstetrics & Gynecology",
+      "Urgent Care",
+      "Cardiology"
+    ],
+    "rating": 2.7,
+    "type": "Public",
+    "avgfee": 309
+  },
+  {
+    "name": "Lamar Berger Hospital",
+    "postalcode": "794118",
+    "address": "1842 Aenean Rd.",
+    "establishedDate": "1772-10-25T13:29:13.394Z",
+    "services": [
+      "Dermatology",
+      "Dental Services",
+      "Pharmacy"
+    ],
+    "rating": 2.5,
+    "type": "Public",
+    "avgfee": 1757
+  },
+  {
+    "name": "Lucius Jacobs Hospital",
+    "postalcode": "342783",
+    "address": "546 Enim. Rd.",
+    "establishedDate": "1867-04-20T23:08:12.225Z",
+    "services": [
+      "Dental Services",
+      "Neurology",
+      "Palliative Care",
+      "Pediatrics",
+      "Radiology"
+    ],
+    "rating": 2.8,
+    "type": "Public",
+    "avgfee": 658
+  },
+  {
+    "name": "Lucius Holloway Hospital",
+    "postalcode": "572421",
+    "address": "Ap #266-4422 Integer St.",
+    "establishedDate": "1779-02-03T07:39:27.878Z",
+    "services": [
+      "Pharmacy",
+      "Radiology",
+      "Ophthalmology",
+      "Rehabilitation Services",
+      "Orthopedics"
+    ],
+    "rating": 4.5,
+    "type": "Private",
+    "avgfee": 2669
+  },
+  {
+    "name": "Gannon Norman Hospital",
+    "postalcode": "265151",
+    "address": "Ap #802-130 Non, Road",
+    "establishedDate": "1748-05-27T18:54:12.510Z",
+    "services": [
+      "Urgent Care",
+      "Psychiatry",
+      "Ophthalmology"
+    ],
+    "rating": 3.4,
+    "type": "Public",
+    "avgfee": 3611
+  },
+  {
+    "name": "Scott Dillon Hospital",
+    "postalcode": "862382",
+    "address": "224-326 Nunc Rd.",
+    "establishedDate": "1705-03-19T06:52:17.706Z",
+    "services": [
+      "Pharmacy",
+      "Pediatrics",
+      "Palliative Care",
+      "Dental Services",
+      "Emergency Care"
+    ],
+    "rating": 1.7,
+    "type": "Public",
+    "avgfee": 1528
+  },
+  {
+    "name": "Britanni Burke Hospital",
+    "postalcode": "263210",
+    "address": "4494 Et St.",
+    "establishedDate": "2012-10-10T16:45:12.410Z",
+    "services": [
+      "Pharmacy"
+    ],
+    "rating": 1.8,
+    "type": "Public",
+    "avgfee": 1030
+  },
+  {
+    "name": "Lucius Hurley Hospital",
+    "postalcode": "273560",
+    "address": "P.O. Box 916, 6426 Quisque Rd.",
+    "establishedDate": "1999-03-24T21:35:09.035Z",
+    "services": [
+      "Oncology",
+      "Ophthalmology",
+      "Pediatrics",
+      "Pharmacy"
+    ],
+    "rating": 3.8,
+    "type": "Public",
+    "avgfee": 2269
+  },
+  {
+    "name": "Mara Peters Hospital",
+    "postalcode": "497446",
+    "address": "678-2600 Tortor. St.",
+    "establishedDate": "1766-11-16T06:10:49.687Z",
+    "services": [
+      "Oncology",
+      "Pediatrics",
+      "Radiology"
+    ],
+    "rating": 1.6,
+    "type": "Private",
+    "avgfee": 1816
+  },
+  {
+    "name": "Flynn Grant Hospital",
+    "postalcode": "433516",
+    "address": "780-2353 Turpis St.",
+    "establishedDate": "1800-02-13T12:16:35.967Z",
+    "services": [
+      "Laboratory Services",
+      "Pediatrics",
+      "Neurology"
+    ],
+    "rating": 1.6,
+    "type": "Public",
+    "avgfee": 2466
+  },
+  {
+    "name": "Jena Maldonado Hospital",
+    "postalcode": "834520",
+    "address": "423-6553 In Street",
+    "establishedDate": "1703-09-10T18:59:12.255Z",
+    "services": [
+      "Obstetrics & Gynecology",
+      "Ophthalmology"
+    ],
+    "rating": 1.7,
+    "type": "Public",
+    "avgfee": 4448
+  },
+  {
+    "name": "Russell Gill Hospital",
+    "postalcode": "357304",
+    "address": "528-4172 Consectetuer St.",
+    "establishedDate": "1822-05-02T13:11:44.740Z",
+    "services": [
+      "Emergency Care",
+      "Pharmacy"
+    ],
+    "rating": 1.3,
+    "type": "Private",
+    "avgfee": 3711
+  },
+  {
+    "name": "Aristotle House Hospital",
+    "postalcode": "973766",
+    "address": "5314 Proin Road",
+    "establishedDate": "1805-05-31T17:04:16.087Z",
+    "services": [
+      "Cardiology",
+      "Pain Management",
+      "Pediatrics",
+      "Orthopedics"
+    ],
+    "rating": 1.5,
+    "type": "Public",
+    "avgfee": 4773
+  },
+  {
+    "name": "Cleo Bishop Hospital",
+    "postalcode": "485277",
+    "address": "981-6014 Lobortis Ave",
+    "establishedDate": "1727-06-15T19:29:53.178Z",
+    "services": [
+      "Pain Management",
+      "Sleep Medicine",
+      "Laboratory Services",
+      "Rehabilitation Services"
+    ],
+    "rating": 3.5,
+    "type": "Public",
+    "avgfee": 4777
+  },
+  {
+    "name": "David Glover Hospital",
+    "postalcode": "433405",
+    "address": "Ap #660-8929 Eu St.",
+    "establishedDate": "2003-05-09T08:05:43.566Z",
+    "services": [
+      "Sleep Medicine",
+      "Radiology"
+    ],
+    "rating": 4.4,
+    "type": "Public",
+    "avgfee": 2670
+  },
+  {
+    "name": "Aileen Cline Hospital",
+    "postalcode": "624647",
+    "address": "829-5535 Libero. Rd.",
+    "establishedDate": "1978-05-22T02:25:00.025Z",
+    "services": [
+      "Radiology",
+      "Laboratory Services"
+    ],
+    "rating": 3.1,
+    "type": "Public",
+    "avgfee": 1158
+  },
+  {
+    "name": "Petra Atkinson Hospital",
+    "postalcode": "693656",
+    "address": "992 A, St.",
+    "establishedDate": "1798-09-26T10:15:40.464Z",
+    "services": [
+      "Orthopedics",
+      "Emergency Care",
+      "Pain Management"
+    ],
+    "rating": 2.1,
+    "type": "Private",
+    "avgfee": 4181
+  },
+  {
+    "name": "Warren Ochoa Hospital",
+    "postalcode": "216537",
+    "address": "Ap #783-4026 Eget Road",
+    "establishedDate": "1739-02-05T09:21:59.373Z",
+    "services": [
+      "Oncology",
+      "Urgent Care"
+    ],
+    "rating": 1.8,
+    "type": "Private",
+    "avgfee": 4299
+  },
+  {
+    "name": "Regan Anderson Hospital",
+    "postalcode": "947248",
+    "address": "P.O. Box 620, 1921 A, Rd.",
+    "establishedDate": "1918-02-21T13:18:18.078Z",
+    "services": [
+      "Ophthalmology",
+      "Pain Management"
+    ],
+    "rating": 2.4,
+    "type": "Private",
+    "avgfee": 1249
+  },
+  {
+    "name": "Peter Coffey Hospital",
+    "postalcode": "374452",
+    "address": "Ap #983-5545 Mauris Rd.",
+    "establishedDate": "1784-02-11T21:12:19.722Z",
+    "services": [
+      "Emergency Care",
+      "Orthopedics",
+      "Obstetrics & Gynecology"
+    ],
+    "rating": 4,
+    "type": "Public",
+    "avgfee": 4433
+  },
+  {
+    "name": "Emily Gould Hospital",
+    "postalcode": "348713",
+    "address": "3472 Enim. Street",
+    "establishedDate": "1945-03-04T17:30:34.874Z",
+    "services": [
+      "Obstetrics & Gynecology",
+      "Ophthalmology",
+      "Pediatrics",
+      "Sleep Medicine",
+      "Radiology"
+    ],
+    "rating": 3.7,
+    "type": "Public",
+    "avgfee": 4376
+  },
+  {
+    "name": "Faith Morin Hospital",
+    "postalcode": "548649",
+    "address": "5509 Mauris. Rd.",
+    "establishedDate": "1875-07-16T10:51:00.598Z",
+    "services": [
+      "Radiology",
+      "Psychiatry",
+      "Palliative Care"
+    ],
+    "rating": 4.6,
+    "type": "Public",
+    "avgfee": 2025
+  },
+  {
+    "name": "Lewis Hewitt Hospital",
+    "postalcode": "912027",
+    "address": "584-8365 Neque St.",
+    "establishedDate": "1857-05-31T20:41:55.159Z",
+    "services": [
+      "Oncology",
+      "General Surgery",
+      "Orthopedics",
+      "Cardiology"
+    ],
+    "rating": 4.8,
+    "type": "Public",
+    "avgfee": 2242
+  },
+  {
+    "name": "Wynter Howell Hospital",
+    "postalcode": "724317",
+    "address": "473-6692 Ullamcorper, Street",
+    "establishedDate": "1996-03-01T12:29:52.741Z",
+    "services": [
+      "Pediatrics",
+      "Obstetrics & Gynecology",
+      "Neurology",
+      "Urgent Care"
+    ],
+    "rating": 3.1,
+    "type": "Public",
+    "avgfee": 4738
+  },
+  {
+    "name": "Alden Hardin Hospital",
+    "postalcode": "487258",
+    "address": "P.O. Box 112, 8525 Sed Rd.",
+    "establishedDate": "1891-08-16T10:55:12.741Z",
+    "services": [
+      "Oncology"
+    ],
+    "rating": 1.6,
+    "type": "Private",
+    "avgfee": 169
+  },
+  {
+    "name": "Sonia Maldonado Hospital",
+    "postalcode": "820884",
+    "address": "Ap #919-8920 Iaculis, Rd.",
+    "establishedDate": "1891-01-06T18:41:00.037Z",
+    "services": [
+      "Orthopedics",
+      "Cardiology"
+    ],
+    "rating": 4.2,
+    "type": "Private",
+    "avgfee": 4363
+  },
+  {
+    "name": "Katell Vang Hospital",
+    "postalcode": "374822",
+    "address": "691-9543 Dictum Rd.",
+    "establishedDate": "1807-07-06T14:08:41.376Z",
+    "services": [
+      "Laboratory Services",
+      "Psychiatry",
+      "Orthopedics",
+      "Palliative Care",
+      "Pediatrics"
+    ],
+    "rating": 4.8,
+    "type": "Private",
+    "avgfee": 718
+  },
+  {
+    "name": "Kylan Spence Hospital",
+    "postalcode": "867464",
+    "address": "5852 Ridiculus Avenue",
+    "establishedDate": "1984-06-25T23:15:10.888Z",
+    "services": [
+      "Cardiology",
+      "Psychiatry",
+      "Neurology",
+      "Pharmacy"
+    ],
+    "rating": 3.3,
+    "type": "Public",
+    "avgfee": 3081
+  },
+  {
+    "name": "Mannix Church Hospital",
+    "postalcode": "814223",
+    "address": "P.O. Box 132, 7768 Ultricies St.",
+    "establishedDate": "1851-04-17T04:44:47.604Z",
+    "services": [
+      "General Surgery",
+      "Radiology",
+      "Dermatology",
+      "Neurology"
+    ],
+    "rating": 3.7,
+    "type": "Private",
+    "avgfee": 4758
+  },
+  {
+    "name": "Colorado Blake Hospital",
+    "postalcode": "317048",
+    "address": "Ap #227-1937 Consequat St.",
+    "establishedDate": "1758-04-12T01:28:59.899Z",
+    "services": [
+      "Dermatology",
+      "Laboratory Services",
+      "Pharmacy",
+      "Orthopedics",
+      "Palliative Care"
+    ],
+    "rating": 1.5,
+    "type": "Private",
+    "avgfee": 4562
+  },
+  {
+    "name": "Ulysses Romero Hospital",
+    "postalcode": "893537",
+    "address": "231-6375 Eu St.",
+    "establishedDate": "2022-04-03T23:20:47.751Z",
+    "services": [
+      "Oncology",
+      "Pharmacy"
+    ],
+    "rating": 2.9,
+    "type": "Public",
+    "avgfee": 4275
+  },
+  {
+    "name": "Vera Pate Hospital",
+    "postalcode": "852026",
+    "address": "Ap #537-6432 Elit. Av.",
+    "establishedDate": "1973-07-30T23:47:47.897Z",
+    "services": [
+      "Neurology",
+      "Obstetrics & Gynecology",
+      "Ophthalmology",
+      "Urgent Care",
+      "Dental Services"
+    ],
+    "rating": 2.1,
+    "type": "Private",
+    "avgfee": 3338
+  },
+  {
+    "name": "Cherokee Warren Hospital",
+    "postalcode": "286739",
+    "address": "P.O. Box 126, 8541 Viverra. Avenue",
+    "establishedDate": "1709-10-16T18:06:48.161Z",
+    "services": [
+      "Radiology",
+      "Obstetrics & Gynecology",
+      "Ophthalmology",
+      "Dermatology"
+    ],
+    "rating": 4.8,
+    "type": "Private",
+    "avgfee": 1794
+  },
+  {
+    "name": "Orla Bates Hospital",
+    "postalcode": "338808",
+    "address": "541-4427 Erat St.",
+    "establishedDate": "1872-03-10T19:32:09.581Z",
+    "services": [
+      "Laboratory Services",
+      "Palliative Care",
+      "Urgent Care",
+      "Radiology",
+      "General Surgery"
+    ],
+    "rating": 3,
+    "type": "Private",
+    "avgfee": 824
+  },
+  {
+    "name": "Kyra Mosley Hospital",
+    "postalcode": "952286",
+    "address": "805-6400 Lorem, St.",
+    "establishedDate": "1859-07-15T13:34:25.128Z",
+    "services": [
+      "Radiology",
+      "Obstetrics & Gynecology",
+      "Ophthalmology",
+      "Pediatrics",
+      "Neurology"
+    ],
+    "rating": 1,
+    "type": "Public",
+    "avgfee": 1370
+  },
+  {
+    "name": "Jessamine Mcleod Hospital",
+    "postalcode": "555816",
+    "address": "7250 Cras Rd.",
+    "establishedDate": "2004-04-24T20:34:41.079Z",
+    "services": [
+      "Pharmacy",
+      "Rehabilitation Services"
+    ],
+    "rating": 5,
+    "type": "Public",
+    "avgfee": 281
+  },
+  {
+    "name": "Kaye Workman Hospital",
+    "postalcode": "663477",
+    "address": "Ap #744-3953 Ante Ave",
+    "establishedDate": "1913-11-25T23:24:09.567Z",
+    "services": [
+      "Pain Management",
+      "Psychiatry",
+      "Obstetrics & Gynecology",
+      "Dermatology"
+    ],
+    "rating": 2.9,
+    "type": "Public",
+    "avgfee": 3609
+  },
+  {
+    "name": "Amos Rutledge Hospital",
+    "postalcode": "177052",
+    "address": "484-949 Ante. Rd.",
+    "establishedDate": "1801-01-02T01:43:50.128Z",
+    "services": [
+      "Sleep Medicine",
+      "Emergency Care"
+    ],
+    "rating": 4.7,
+    "type": "Public",
+    "avgfee": 710
+  },
+  {
+    "name": "Hayden Cunningham Hospital",
+    "postalcode": "843878",
+    "address": "Ap #623-8928 Urna. St.",
+    "establishedDate": "2000-03-10T08:13:37.022Z",
+    "services": [
+      "Pediatrics",
+      "Dermatology",
+      "Urgent Care",
+      "Obstetrics & Gynecology"
+    ],
+    "rating": 1.4,
+    "type": "Public",
+    "avgfee": 4016
+  }
+]
