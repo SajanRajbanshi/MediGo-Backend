@@ -1,14 +1,21 @@
-const express = require("express")
-const app = express()
+const express = require("express");
+const app = express();
 require("dotenv").config();
-const cors = require("cors")
-const routes = require("./Routes/api")
+// const cors = require("cors");
+const routes = require("./Routes/api");
 
-app.use(express.json())
-app.use(cors())
+// const corsOptions = {
+//     origin: 'https://5dst5gsd-5173.euw.devtunnels.ms',
+//     methods: 'GET, POST, OPTIONS',
+//     // allowedHeaders: 'Content-Type, Authorization',
+// };
 
-app.use("/api",routes);
+// // app.use(cors(corsOptions));
+// app.options('*', cors(corsOptions));
+// app.use(cors({ origin: ["https://5dst5gsd-5173.euw.devtunnels.ms"] }));
 
-app.listen(process.env.PORT || 3000,()=>{
-    console.log(`server is listening on port ${process.env.PORT || 3000}`);
-})
+app.use(express.json());
+
+app.use("/api", routes);
+
+module.exports = app;
